@@ -1,0 +1,17 @@
+* {
+    box-sizing: border-box;
+}
+
+
+.image {
+    width: 80px;
+    height: 250px;
+    border-radius: 20px;
+    transition: 0.8s;
+}
+
+.active {
+    width: 450px;
+    border-radius: 10;
+    transition: 0.8s;
+}
